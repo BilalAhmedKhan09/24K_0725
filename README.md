@@ -1,3 +1,3 @@
-## **I am a student** 
+## __I am a student__
 - Studying at nuces
 - BS-CS
