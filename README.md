@@ -1,1 +1,3 @@
-# 24K_0725
+## **I am a student** 
+- Studying at nuces
+- BS-CS
